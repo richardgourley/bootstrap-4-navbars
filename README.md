@@ -4,10 +4,10 @@ READ ME FOR GITHUB PROJECT
 
 ## Build a bootstrap navbar step by step
 
-It proved tricky to get the bootstrap navbar I required set up exactly as I wanted it for a project.
-Starting from basic-navbar.html, each example in numbered order, builds upon the previous example to build up to the finished navbar in example11.html
+Completely bespoke navbars can be built still using mostly bootstrap classes. This guide is to help anyone struggling with that.
+This step by step guide starts with a basic bootstrap navbar in basic-navbar.html, following onto example1.html and example2.html and so on, each example building upon the previous example to build up to the finished bespoke navbar in example11.html
 
-Step by step
+Steps to achieve a bespoke navbar
 1. Move brand and menu inside container div with margin
 2. Keep brand left but menu to the right of div container.
 3. Add logo - make sure it sits nicely in the navbar and has the correct width.
@@ -19,10 +19,6 @@ Step by step
 9. Modify the background color of the collapsable menu for smaller devices and ensure grey lines of toggler icon still appear correctly.
 10. Change dropdown menu links color to a more readable color such as grey.
 11. Add border and shadow to bottom of navbar
-
-The process goes from example1.html through to a completed bespoke navbar in example11.html. 
-The end result has completely bespoke color scheme - and doesn't rely on bootstrap navbar-light and navbar-dark classes. 
-The inital base-navbar.html file starts with a basic bootstrap navbar with branding text and a dropdown menu on the left that collapses on mobile devices... 
 
 NOTE: The inclusion of css in <style> is only for demonstration purposes. For any devs reading this, it's always best practice to include css in its own file and call it.  NOTE! Bespoke css has to be called AFTER the bootstrap styles are loaded.
 The bootstrap JS files are included for demonstration purposes as well. Again, its better to separate them into their own files and call them via <script src="..... 
