@@ -16,7 +16,7 @@ Steps to achieve a bespoke navbar
 6. Change nav background to dark blue
 7. Change nav brand text color and change links brand text color to a light yellow.
 8. Change color of links when we hover over menu links to a dark yellow.
-9. Modify the background color of the collapsable menu for smaller devices and ensure grey lines of toggler icon still appear correctly.
+9. Modify the border color of the collapsable menu for smaller devices and ensure grey lines of toggler icon still appear correctly.
 10. Change dropdown menu links color to a more readable color such as grey.
 11. Add border and shadow to bottom of navbar
 
