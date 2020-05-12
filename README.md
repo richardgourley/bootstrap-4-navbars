@@ -27,7 +27,7 @@ The inital base-navbar.html file starts with a basic bootstrap navbar with brand
 NOTE: The inclusion of css in <style> is only for demonstration purposes. For any devs reading this, it's always best practice to include css in its own file and call it.  NOTE! Bespoke css has to be called AFTER the bootstrap styles are loaded.
 The bootstrap JS files are included for demonstration purposes as well. Again, its better to separate them into their own files and call them via <script src="..... 
 
-##################################
+================================
 
 ### 1. Example1 - FROM basic-navbar.html
 - I wanted all navbar elements to have margins and NOT have a full width container. However, I wanted the navbar itself to be full width so I only put the brand name and menu inside the div with class container. 
