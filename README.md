@@ -2,8 +2,9 @@
 
 ## Build a bootstrap navbar step by step
 
-It proved tricky to get the bootstrap navbar I required set up exactly as I wanted it for a project.
-Starting from basic-navbar.html, each example in numbered order, builds upon the previous example to build up to the finished navbar in example11.html
+It proved tricky to get the bootstrap navbar I required set up exactly as I wanted it for a project.  I thought I'd show the step by step process I used in creating a unique navbar with bespoke styling.
+
+Using basic-navbar.html as a starting point, each example in numbered order, builds upon the previous example to build up to the finished navbar in example11.html
 
 Step by step
 1. Move brand and menu inside container div with margin
